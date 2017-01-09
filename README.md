@@ -62,7 +62,7 @@ focalStorage.config({
 ```
 
 **Note:** you must call `config()` _before_ you interact with your data. This
-means calling `config()` before using `getItem()`, `setItem()`, `removeItem()`,
+means calling `config()` before using `getItem()`, `getItems()`, `setItem()`, `removeItem()`,
 `clear()`, `key()`, `keys()` or `length()`.
 
 
